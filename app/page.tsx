@@ -8,11 +8,16 @@ export default function Home() {
       <h1>Logo</h1>
     </header>
 
-     <img 
-     src="/malibu.png" 
-     width={1920} 
-     height={500}
-     />
+    <div>
+      <h1>Texto</h1>
+      <img  
+      src="/malibu.png" 
+      width={1920} 
+      height={500}
+      />
+    </div>
+
+     
 
     <div className='m-6'>
 
