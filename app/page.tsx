@@ -9,7 +9,7 @@ export default function Home() {
     </header>
 
     <div>
-      <h1>Texto</h1>
+    
       <img  
       src="/malibu.png" 
       width={1920} 
